@@ -1,2 +1,2 @@
-# SmashOrPass
- Play the game 'SMASH or PASS' with Roblox characters!
+# SMASHorPASS
+ Smash or pass with roblox avatars!
